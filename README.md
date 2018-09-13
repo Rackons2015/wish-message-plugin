@@ -11,3 +11,6 @@ Feature Wish Message 1.1.2
 - Compatible with All Osclass Theme(2.0.3 and above) only. For other themes, user can change stylesheet.
 - Mobile Friendly.
 - More Attractive.
+
+
+If you need more information, you can visit our <a href="https://forums.rackons.in" target="_blank">forums</a> or officially <a href="https://osclassmarket.rackons.in" target="_blank">Rackons Market</a>
